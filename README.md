@@ -1,10 +1,10 @@
 # Project Title
 
 Team Members:  
-Lekhashree Honnavalli Jayarama
-Sai Hemanth Kilaru
-Mokshagna Gnana Teja Talapaneni
-Meghana Maringanti
+- Lekhashree Honnavalli Jayarama
+- Sai Hemanth Kilaru
+- Mokshagna Gnana Teja Talapaneni
+- Meghana Maringanti
 
 This repository contains the necessary files, scripts, and data for the Project :  Predictive analytics of the success of crowd funding campaigns on GoFundMe
 
