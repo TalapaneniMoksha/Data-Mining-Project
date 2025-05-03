@@ -1,8 +1,12 @@
 # Project Title
 
-Team Members:
+Team Members:  
+Lekhashree Honnavalli Jayarama
+Sai Hemanth Kilaru
+Mokshagna Gnana Teja Talapaneni
+Meghana Maringanti
 
-This repository contains the necessary files, scripts, and data for the <project_name>
+This repository contains the necessary files, scripts, and data for the Project :  Predictive analytics of the success of crowd funding campaigns on GoFundMe
 
 ---
 
@@ -13,12 +17,13 @@ This repository contains the necessary files, scripts, and data for the <project
 
 ### Directories and Files
 - **data/**  
-
+  - cleaned_fundme_data.csv - Final dataset used for the project
+  - gofundme_dataset.xlsx - intial file 
 - **Notebooks/**  
 
 
 ### Additional Files
-- `requirements.txt` - Python package dependencies.  
+- data_cleaning.ipynb - A jupyter notebook for cleaning data in the initial xlsx file
 
 
 
